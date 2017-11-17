@@ -1,7 +1,7 @@
 # SDL Particle Simulation
 This was the final project from John Purcell's Udemy course, "C++ Tutorial for Complete Beginners". 
 
-This project uses the SDL graphics library to create a particle simulation that runs on a desktop. The simulation is made up of a instances of a particle class that are define in the particle and swarm classes/headers. The screen class and header handle the updated motion of the particles and shows in the desktop video. 
+This project uses the SDL graphics library to create a particle simulation that runs on a desktop. 
 
 Screenshot: 
 
